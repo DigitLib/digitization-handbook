@@ -1,0 +1,17 @@
+---
+home: true
+title: Home
+heroImage: /images/logo.svg
+actions:
+  - text: Before you start
+    link: /before.html
+    type: primary
+footer: MIT Licensed | Copyright © 2022 Europeana Tech Community
+---
+## Workflows from shelf to Europeana
+
+For small and medium-sized cultural heritage organizations (SMO’s), it is very often difficult, if not impossible, to digitize their collections, metadate them adequately and deliver the results to Europeana, either through an aggregator or directly. Consequently they will lag behind and their content will be missed in Europeana and in the “digital world” at large and will not be available to most of the interested audience. Not having a digital presence and not having digital experience will hinder these small and medium-sized CH organizations to cooperate with and learn from their peers all over Europe.
+
+To aid the CH-SMO’s, a Europeana Task Force is developing a standardized workflow, in which each step will be provided with appropriate, standardized, open or free tools and best practices. This will reduce the capacity needed by CH-SMO’s, bridge the capabilities-gap and decrease the need for budget.
+
+On this website the workflow from shelf to Europeana is disseminated into procedural steps and connected to useful tools for each step in the process. This site is a work in progress; the Task Force is still working on defining steps and collecting tools. You can help by adding questions and/or remarks or useful tools in the feedback form.
