@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6d6c0fdc","path":"/selection/","title":"Start here","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1671466882000,"contributors":[{"name":"Andrija Sagicc","email":"andrija.sagic@gmail.com","commits":1}]},"filePathRelative":"selection/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-468e7801","path":"/selection/select.html","title":"Selection of material","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1671466882000,"contributors":[{"name":"Andrija Sagicc","email":"andrija.sagic@gmail.com","commits":1}]},"filePathRelative":"selection/select.md"}');export{e as data};

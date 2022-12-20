@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-228cffbe","path":"/before.html","title":"Before you start","lang":"en-US","frontmatter":{"sidebar":false},"headers":[],"git":{"updatedTime":1671466882000,"contributors":[{"name":"Andrija Sagicc","email":"andrija.sagic@gmail.com","commits":1}]},"filePathRelative":"before.md"}');export{e as data};
